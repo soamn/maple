@@ -26,6 +26,12 @@
       ]
     }
   },
-  "minimum-stability": "dev",
+  "archive": {
+    "exclude": [
+      "/assets",
+      "/readme.md"
+    ]
+  },
+  "minimum-stability": "1.0.0",
   "prefer-stable": true
 }
