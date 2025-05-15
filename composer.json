@@ -1,0 +1,31 @@
+{
+  "name": "soamn/maple",
+  "description": "Beautiful Tailwind and Alpine components for Laravel Blade",
+  "autoload": {
+    "psr-4": {
+      "Soamn\\Maple\\": "src/"
+    }
+  },
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "soamn",
+      "email": "negiaman604@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
+    "benjamincrozat/tailwind-merge": "^1.0.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Soamn\\Maple\\UiServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
