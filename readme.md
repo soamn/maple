@@ -40,7 +40,7 @@
       </x-maple.button.base>
 ```
 
-![Button](https://raw.githubusercontent.com/soamn/maple/assets/image.png)
+![Button](https://raw.githubusercontent.com/soamn/maple/main/assets/image.png)
 
 ---
 
@@ -64,7 +64,7 @@ _how much does the card rotate along the axis_
 
 ```
 
-![alt text](https://raw.githubusercontent.com/soamn/maple/assets/image-1.png)
+![untouchable](https://raw.githubusercontent.com/soamn/maple/main/assets/image-1.png)
 
 ---
 
@@ -94,7 +94,7 @@ _how much does the card rotate along the axis_
 
 ```
 
-![alt text](https://raw.githubusercontent.com/soamn/maple/assets/image-2.png)
+![carousal3d](https://raw.githubusercontent.com/soamn/maple/main/assets/image-2.png)
 
 ---
 
@@ -128,7 +128,7 @@ _how much does the card rotate along the axis_
 
 ```
 
-![alt text](https://raw.githubusercontent.com/soamn/maple/assets/image-3.png)
+![tooltip](https://raw.githubusercontent.com/soamn/maple/main/assets/image-3.png)
 
 ### typewriter
 
@@ -144,7 +144,7 @@ _how much does the card rotate along the axis_
 
 ```
 
-![alt text](https://raw.githubusercontent.com/soamn/maple/assets/image-4.png)
+![typewriter](https://raw.githubusercontent.com/soamn/maple/main/assets/image-4.png)
 
 ### sidebar
 
@@ -185,4 +185,4 @@ _how much does the card rotate along the axis_
     </x-maple.sidebar>
 ```
 
-![alt text](https://raw.githubusercontent.com/soamn/maple/assets/image-5.png)
+![sidebar](https://raw.githubusercontent.com/soamn/maple/main/assets/image-5.png)
